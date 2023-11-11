@@ -47,7 +47,7 @@ Some participants in prior psychedelic experiments [have said](https://vimeo.co
 **Psychoactive**  
 It is often claimed that a microdose is a sub-perceptual dose. Yet, as Szigeti and Erritzoe of the self-blinding microdosing study point out, the term microdose in pharmacological parlance is that of taking less than one hundredth of a normal dose, which is far less than the 5-25µg of LSD many are using. Recently, [Fadiman also pointed out](https://www.facebook.com/bass.head.58/posts/2044144488951372?comment_id=2047468061952348%C2%ACif_id=1531376539954263%C2%ACif_t=feed_comment&ref=notif) that his previous claims that Albert Hofmann “microdosed” until his death were inaccurate, and that he actually took low-but-still-psychoactive doses of 20-50µg relatively infrequently. Likewise, [Torsten Passie has stated that](https://youtu.be/6_nJrVFCv_8?t=1364) Hofmann took 30-90µg a handful of times a year.
 
-Low psychoactive doses have been variously referred to as threshold doses, mini-doses, or museum doses, among a variety of <abbr title="(like ‘licks’, which I can’t be the first to have come up with)">others.</abbr> 
+Low psychoactive doses have been variously referred to as threshold doses, mini-doses, or museum doses, among a variety of <abbr title="(like ‘licks’, which I can’t be the first to have come up with)" style=”cursor:help;”>others.</abbr> 
 
 Eric Osborne, M.Ed., uses the term ‘mesodose’ [and adds,](https://www.mycomeditations.com/the-right-dose-of-psychedelics/)
 
