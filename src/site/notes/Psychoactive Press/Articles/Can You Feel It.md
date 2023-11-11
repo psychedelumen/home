@@ -4,7 +4,7 @@
 
 # CAN YOU FEEL IT?
 ## On Psychedelic Microdosing
-###### by [Eric M. Fortier, B.A.](https://www.psychoactive.ca/eric-m-fortier) | April 2019
+###### by Eric M. Fortier, B.A | April 2019
 
 > When it finally happens that psychedelic research—left sufficiently free to realize the potentials—is permitted, then that freedom must include an agreement that under no circumstances must it be monopolized by psychiatrists. Psychologists, philosophers, theologians, anthropologists, artists, scientists, engineers—those from the many different disciplines and fields—must be allowed to contribute to the body of knowledge that will be generated. Given the range and diversity of the psychedelic experience—and truly nothing human is alien to it—investigation must be multidisciplinary if it is not to be warped and stunted. And we must understand and agree that some of this work will be exploration, not subject to the kinds of constraints imposed if it were to be more narrowly defined.
 		- Robert Masters, *The Varieties of Psychedelic Experience* (2000 ed., p.vii)
