@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/psychoactive-press/articles/multiple-functional-enhancements-of-dopamine-signaling-by-lsd-a-summary/"}
 ---
 
-### by [Eric M. Fortier, B.A.](https://web.archive.org/web/20230331182410/https://www.psychoactive.ca/eric-m-fortier)
+# Multiple Functional Enhancements of Dopamine Signaling by LSD 
+## A Summary
+###### by Eric M. Fortier, B.A | April 2019
 
 This article is a brief summary of the following study: **[Hallucinogenic 5-HT2AR agonists LSD and DOI enhance dopamine D2R protomer recognition and signaling of D2-5-HT2A heteroreceptor complexes](https://www.ncbi.nlm.nih.gov/pubmed/24309097)**.[1]
 
