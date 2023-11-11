@@ -2,11 +2,9 @@
 {"dg-publish":true,"permalink":"/psychoactive-press/articles/multiple-functional-enhancements-of-dopamine-signaling-by-lsd-a-summary/"}
 ---
 
-# Multiple Functional Enhancements of Dopamine Signaling by LSD – A Summary
-
 ### by [Eric M. Fortier, B.A.](https://web.archive.org/web/20230331182410/https://www.psychoactive.ca/eric-m-fortier)
 
-This article is a brief summary of the following study: **[Hallucinogenic 5-HT2AR agonists LSD and DOI enhance dopamine D2R protomer recognition and signaling of D2-5-HT2A heteroreceptor complexes](https://web.archive.org/web/20230331182410/https://www.ncbi.nlm.nih.gov/pubmed/24309097)**.[1]
+This article is a brief summary of the following study: **[Hallucinogenic 5-HT2AR agonists LSD and DOI enhance dopamine D2R protomer recognition and signaling of D2-5-HT2A heteroreceptor complexes](https://www.ncbi.nlm.nih.gov/pubmed/24309097)**.[1]
 
 **Overview**  
 Serotonin (5-HT) is known to counteract Dopamine 2 (D2) signaling via the 5-HT2A protomer (single receptor of a complex). This study was an attempt to elucidate the relation between the psychedelic actions of two high-affinity 5-HT2A agonists (LSD and DOI) and the D2LR + 5-HT2AR heteromeric receptor complex. Researchers hypothesized that LSD and DOI would produce a different kind of interaction at the receptor complex than that of endogenous serotonin.
