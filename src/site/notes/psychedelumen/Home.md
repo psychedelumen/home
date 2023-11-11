@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psychedelumen/home/"}
+{"dg-publish":true,"permalink":"/psychedelumen/home/","tags":["gardenEntry"]}
 ---
 
 | File                                                                                                                                                                                    | Created                     |
