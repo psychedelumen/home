@@ -29,11 +29,7 @@ Ornelas, I. M., Cini, F. A., Wießner, I., Marcos, E., de Araújo, D., Goto-Silv
 > 
 > Skosnik, P. D., Sloshower, J., Safi-Aghdam, H., Pathania, S., Syed, S., Pittman, B., & D’Souza, D. C. (2023a). Sub-acute effects of psilocybin on EEG correlates of neural plasticity in major depression: Relationship to symptoms. _Journal of Psychopharmacology (Oxford, England)_, _37_(7), 687–697. [https://doi.org/10.1177/02698811231179800](https://doi.org/10.1177/02698811231179800)
 > 
-> Skosnik, P. D., Sloshower, J., Safi-Aghdam, H., Pathania, S., Syed, S., Pittman, B., & D’Souza, D. C. (2023b). Sub-acute effects of psilocybin on EEG correlates of neural plasticity in major depression: Relationship to symptoms. _Journal of Psychopharmacology_, _37_(7), 687–697. [https://doi.org/10.1177/02698811231179800](https://doi.org/10.1177/02698811231179800)
-> 
 > Sumner, R., & Lukasiewicz, K. (2023a). Psychedelics and neural plasticity. _BMC Neuroscience_, _24_(1), 35. [https://doi.org/10.1186/s12868-023-00809-0](https://doi.org/10.1186/s12868-023-00809-0)
-> 
-> Sumner, R., & Lukasiewicz, K. (2023b). Psychedelics and neural plasticity. _BMC Neuroscience_, _24_(1), 35. [https://doi.org/10.1186/s12868-023-00809-0](https://doi.org/10.1186/s12868-023-00809-0)
 > 
 > Vargas, M. V., Dunlap, L. E., Dong, C., Carter, S. J., Tombari, R. J., Jami, S. A., Cameron, L. P., Patel, S. D., Hennessey, J. J., Saeger, H. N., McCorvy, J. D., Gray, J. A., Tian, L., & Olson, D. E. (2023). Psychedelics promote neuroplasticity through the activation of intracellular 5-HT2A receptors. _Science (New York, N.Y.)_, _379_(6633), 700–706. [https://doi.org/10.1126/science.adf0435](https://doi.org/10.1126/science.adf0435)
 
