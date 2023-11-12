@@ -55,8 +55,6 @@ Ornelas, I. M., Cini, F. A., Wießner, I., Marcos, E., de Araújo, D., Goto-Silv
 > 
 > HERTZ, M. (1968). LSD Stress and Learning. _Acta Psychiatrica Scandinavica_, _203_(Suppl.), 201–204. [https://doi.org/10.1111/j.1600-0447.1968.tb01991.x](https://doi.org/10.1111/j.1600-0447.1968.tb01991.x)
 > 
-> Kanen, J. W., Luo, Q., Kandroodi, M. R., Cardinal, R. N., Robbins, T. W., Carhart-Harris, R. L., & den Ouden, H. E. M. (2020). _Effect of lysergic acid diethylamide (LSD) on reinforcement learning in humans_ [Preprint]. Neuroscience. [https://doi.org/10.1101/2020.12.04.412189](https://doi.org/10.1101/2020.12.04.412189)
-> 
 > Kanen, J. W., Luo, Q., Kandroodi, M. R., Cardinal, R. N., Robbins, T. W., Nutt, D. J., Carhart-Harris, R. L., & Ouden, H. E. M. den. (2022). Effect of lysergic acid diethylamide (LSD) on reinforcement learning in humans. _Psychological Medicine_, 1–12. [https://doi.org/10.1017/S0033291722002963](https://doi.org/10.1017/S0033291722002963)
 > 
 > Nardou, R., Sawyer, E., Song, Y. J., Wilkinson, M., Padovan-Hernandez, Y., de Deus, J. L., Wright, N., Lama, C., Faltin, S., Goff, L. A., Stein-O’Brien, G. L., & Dölen, G. (2023). Psychedelics reopen the social reward learning critical period. _Nature_, _618_(7966), Article 7966. [https://doi.org/10.1038/s41586-023-06204-3](https://doi.org/10.1038/s41586-023-06204-3)
