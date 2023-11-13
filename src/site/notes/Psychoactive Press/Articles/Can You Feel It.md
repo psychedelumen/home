@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/psychoactive-press/articles/can-you-feel-it/","tags":["✒️"]}
 ---
 
-# CAN YOU FEEL IT?
-## On Psychedelic Microdosing
-###### by Eric M. Fortier, B.A | April 2019
+<H1 style="text-align:center;">CAN YOU FEEL IT? <br>
+On Psychedelic Microdosing</H1>
+<div style=”width:100%;text-align:center;”><b> by Eric M. Fortier, B.A | April 2019</b></div>
+
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/lrKZNqIR2U0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 > 	When it finally happens that psychedelic research—left sufficiently free to realize the potentials—is permitted, then that freedom must include an agreement that under no circumstances must it be monopolized by psychiatrists. Psychologists, philosophers, theologians, anthropologists, artists, scientists, engineers—those from the many different disciplines and fields—must be allowed to contribute to the body of knowledge that will be generated. Given the range and diversity of the psychedelic experience—and truly nothing human is alien to it—investigation must be multidisciplinary if it is not to be warped and stunted. And we must understand and agree that some of this work will be exploration, not subject to the kinds of constraints imposed if it were to be more narrowly defined.
