@@ -7,8 +7,7 @@
 ### Serotonergic Origins of Luminous Experience Induced by Classical Psychedelics
 ##### Eric M. Fortier, B.A. 
 
-
-<div><img src="https://i.imgur.com/PFCQ68N.png" alt="Psychedelotropism by EM Fortier (book cover)" style="max-width:300px;float: left; margin-right: 20px;"><p style="text-align: left;font-size:1.5rem;">
+<div><img src="https://i.imgur.com/PFCQ68N.png" alt="Psychedelotropism by EM Fortier (book cover)" style="max-width:300px;float: left; margin-right: 20px;"><p style="text-align: left;">
  We are, every one of us, tied together by an ancient biochemical link; one that predates the divergence of all major kingdoms of life. What began two and a half billion years ago in the primeval waters of the Archean Eon would one day come to be involved in almost all aspects of animal life. What might the origins of serotonin and its chemical cousins reveal about the nature and function of psychedelic experience? How might the processes of psychedelic experience help us find meaning, learn from the past, gain insight, and find a way forward? Could they even help us strategize, innovate, re-orient our priorities, and more effectively allocate our resources? Psychedelotropism addresses these questions in a compelling combination of evolutionary biology and neuropsychology along with a multitude of modern findings from research with classical psychedelics.
 </p></div>
 
