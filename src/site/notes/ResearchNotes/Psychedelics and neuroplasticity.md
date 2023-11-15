@@ -41,8 +41,6 @@
 > 
 > HERTZ, M. (1963a). LSD-behandlingen som stress og katalysator for laereprocesser. [LSD-Treatments as a Stress Factor and Catalyst in Learning Processes]. _Nordisk Psykiatrisk Tidsskrift_, _17_, 169–177. [https://doi.org/10.3109/08039486309132762](https://doi.org/10.3109/08039486309132762)
 > 
-> HERTZ, M. (1963b). _LSD-behandlingen som stress og katalysator for laereprocesser. [LSD-Treatments as a Stress Factor and Catalyst in Learning Processes.] Nordisk Psykiatrisk Tidsskrift 17: 169-177_.
-> 
 > HERTZ, M. (1967). _The Mechanism of the LSD Treatment as Viewed from the Aspect of Learning Processes. In: Abramson, Harold A. (ed.): The Use of LSD in Psychotherapy and Alcoholism. Indianapolis/New York/Kansas City: Bobbs Merrill 1967, pp_. 661–669.
 > 
 > HERTZ, M. (1968). LSD Stress and Learning. _Acta Psychiatrica Scandinavica_, _203_(Suppl.), 201–204. [https://doi.org/10.1111/j.1600-0447.1968.tb01991.x](https://doi.org/10.1111/j.1600-0447.1968.tb01991.x)
