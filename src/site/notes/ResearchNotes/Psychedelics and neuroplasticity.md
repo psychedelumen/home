@@ -5,7 +5,7 @@
 # Psychedelics and neuroplasticity
 ## A starter bibliography
 
->Ornelas, I. M., Cini, F. A., Wießner, I., Marcos, E., de Araújo, D., Goto-Silva, L., Nascimento, J., Silva, S. R. B., Costa, M. N., Falchi, M., Olivieri, R., Palhano-Fontes, F., Sequerra, E., Martins-de-Souza, D., Feilding, A., Rennó-Costa, C., Tófoli, L. F., Rehen, S. K., & Ribeiro, S. (2022). Nootropic effects of LSD: Behavioral, molecular and computational evidence. _Experimental Neurology_, 114148. [https://doi.org/10.1016/j.expneurol.2022.114148](https://doi.org/10.1016/j.expneurol.2022.114148)
+>Ornelas, I. M., Cini, F. A., Wießner, I., Marcos, E., de Araújo, D., Goto-Silva, L., Nascimento, J., Silva, S. R. B., Costa, M. N., Falchi, M., Olivieri, R., Palhano-Fontes, F., Sequerra, E., Martins-de-Souza, D., Feilding, A., Rennó-Costa, C., Tófoli, L. F., Rehen, S. K., & Ribeiro, S. (2022). Nootropic effects of LSD: Behavioral, molecular and computational evidence. _Experimental Neurology_, 114148. [https://doi.org/10.1016/j.expneurol.2022.114148](https://doi.org/10.1016/j.expneurol.2022.114148) ^[inline footnote]
 
  
 
