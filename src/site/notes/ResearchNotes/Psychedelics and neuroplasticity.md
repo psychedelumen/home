@@ -5,7 +5,7 @@
 # Psychedelics and neuroplasticity
 ## A starter bibliography
 
-Ornelas, I. M., Cini, F. A., Wießner, I., Marcos, E., de Araújo, D., Goto-Silva, L., Nascimento, J., Silva, S. R. B., Costa, M. N., Falchi, M., Olivieri, R., Palhano-Fontes, F., Sequerra, E., Martins-de-Souza, D., Feilding, A., Rennó-Costa, C., Tófoli, L. F., Rehen, S. K., & Ribeiro, S. (2022). Nootropic effects of LSD: Behavioral, molecular and computational evidence. _Experimental Neurology_, 114148. [https://doi.org/10.1016/j.expneurol.2022.114148](https://doi.org/10.1016/j.expneurol.2022.114148)
+>Ornelas, I. M., Cini, F. A., Wießner, I., Marcos, E., de Araújo, D., Goto-Silva, L., Nascimento, J., Silva, S. R. B., Costa, M. N., Falchi, M., Olivieri, R., Palhano-Fontes, F., Sequerra, E., Martins-de-Souza, D., Feilding, A., Rennó-Costa, C., Tófoli, L. F., Rehen, S. K., & Ribeiro, S. (2022). Nootropic effects of LSD: Behavioral, molecular and computational evidence. _Experimental Neurology_, 114148. [https://doi.org/10.1016/j.expneurol.2022.114148](https://doi.org/10.1016/j.expneurol.2022.114148)
 
  
 
@@ -93,19 +93,13 @@ Ornelas, I. M., Cini, F. A., Wießner, I., Marcos, E., de Araújo, D., Goto-Silv
 > 
 > Magaraggia, I., Kuiperes, Z., & Schreiber, R. (2021a). Improving cognitive functioning in major depressive disorder with psychedelics: A dimensional approach. _Neurobiology of Learning and Memory_, _183_, 107467. [https://doi.org/10.1016/j.nlm.2021.107467](https://doi.org/10.1016/j.nlm.2021.107467)
 > 
-> Magaraggia, I., Kuiperes, Z., & Schreiber, R. (2021b). Improving cognitive functioning in major depressive disorder with psychedelics: A dimensional approach. _Neurobiology of Learning and Memory_, 107467. [https://doi.org/10.1016/j.nlm.2021.107467](https://doi.org/10.1016/j.nlm.2021.107467)
-> 
 > Martin, D. A., Marona-Lewicka, D., Nichols, D. E., & Nichols, C. D. (2014). Chronic LSD alters gene expression profiles in the mPFC relevant to schizophrenia. _Neuropharmacology_, _83_, 1–8. [https://doi.org/10.1016/j.neuropharm.2014.03.013](https://doi.org/10.1016/j.neuropharm.2014.03.013)
 > 
 > Morales-Garcia, J. A., Calleja-Conde, J., Lopez-Moreno, J. A., Alonso-Gil, S., Sanz-SanCristobal, M., Riba, J., & Perez-Castillo, A. (2020). N,N-dimethyltryptamine compound found in the hallucinogenic tea ayahuasca, regulates adult neurogenesis in vitro and in vivo. _Translational Psychiatry_, _10_(1), Article 1. [https://doi.org/10.1038/s41398-020-01011-0](https://doi.org/10.1038/s41398-020-01011-0)
 > 
 > Morales-García, J. A., de la Fuente Revenga, M., Alonso-Gil, S., Rodríguez-Franco, M. I., Feilding, A., Perez-Castillo, A., & Riba, J. (2017). The alkaloids of Banisteriopsis caapi, the plant source of the Amazonian hallucinogen Ayahuasca, stimulate adult neurogenesis in vitro. _Scientific Reports_, _7_(1), 5309. [https://doi.org/10.1038/s41598-017-05407-9](https://doi.org/10.1038/s41598-017-05407-9)
 > 
-> Mosurinjohn, S., Roseman, L., & Girn, M. (2023). Psychedelic-induced mystical experiences: An interdisciplinary discussion and critique. _Frontiers in Psychiatry_, _14_, 1077311. [https://doi.org/10.3389/fpsyt.2023.1077311](https://doi.org/10.3389/fpsyt.2023.1077311)
-> 
 > _Psychedelics Today: PTSF57 - New Compounds, Psychedelic Business, and Neurogenesis_. (n.d.). Retrieved April 30, 2021, from [https://psychedelicstoday.libsyn.com/ptsf57-new-compounds-psychedelic-business-and-neurogenesis-0](https://psychedelicstoday.libsyn.com/ptsf57-new-compounds-psychedelic-business-and-neurogenesis-0)
-> 
-> Quednow, B. B., Kometer, M., Geyer, M. A., & Vollenweider, F. X. (2012). Psilocybin-Induced Deficits in Automatic and Controlled Inhibition are Attenuated by Ketanserin in Healthy Human Volunteers. _Neuropsychopharmacology_, _37_(3), 630–640. [https://doi.org/10.1038/npp.2011.228](https://doi.org/10.1038/npp.2011.228)
 > 
 > Raval, N. R., Johansen, A., Donovan, L. L., Ros, N. F., Ozenne, B., Hansen, H. D., & Knudsen, G. M. (2021). A Single Dose of Psilocybin Increases Synaptic Density and Decreases 5-HT2A Receptor Density in the Pig Brain. _International Journal of Molecular Sciences_, _22_(2). [https://doi.org/10.3390/ijms22020835](https://doi.org/10.3390/ijms22020835)
 > 
