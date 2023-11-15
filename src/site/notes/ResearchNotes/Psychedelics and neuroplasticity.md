@@ -31,9 +31,7 @@ Ornelas, I. M., Cini, F. A., Wießner, I., Marcos, E., de Araújo, D., Goto-Silv
 > 
 > Vargas, M. V., Dunlap, L. E., Dong, C., Carter, S. J., Tombari, R. J., Jami, S. A., Cameron, L. P., Patel, S. D., Hennessey, J. J., Saeger, H. N., McCorvy, J. D., Gray, J. A., Tian, L., & Olson, D. E. (2023). Psychedelics promote neuroplasticity through the activation of intracellular 5-HT2A receptors. _Science (New York, N.Y.)_, _379_(6633), 700–706. [https://doi.org/10.1126/science.adf0435](https://doi.org/10.1126/science.adf0435)
 
-
-#### collection: psychedelic 
-#### title: learning
+ 
 
 > Bombaci, B. (n.d.). _Defending Perceptual Diversity in America: Entheogens as Legitimate Contributors to Learning, Health, and Empathy_. 34.
 > 
@@ -55,10 +53,7 @@ Ornelas, I. M., Cini, F. A., Wießner, I., Marcos, E., de Araújo, D., Goto-Silv
 > 
 > Romano, A. G., Quinn, J. L., Li, L., Dave, K. D., Schindler, E. A., Aloyo, V. J., & Harvey, J. A. (2010). Intrahippocampal LSD accelerates learning and desensitizes the 5-HT2A receptor in the rabbit, Romano et al. _Psychopharmacology_, _212_(3), 441–448. [https://doi.org/10.1007/s00213-010-2004-7](https://doi.org/10.1007/s00213-010-2004-7)
 
-
-#### collection: psychedelic
-#### any: genesis
-
+ 
 > Borbély, E., Varga, V., Szögi, T., Schuster, I., Bozsó, Z., Penke, B., & Fülöp, L. (2022). Impact of Two Neuronal Sigma-1 Receptor Modulators, PRE084 and DMT, on Neurogenesis and Neuroinflammation in an Aβ1–42-Injected, Wild-Type Mouse Model of AD. _International Journal of Molecular Sciences_, _23_(5), Article 5. [https://doi.org/10.3390/ijms23052514](https://doi.org/10.3390/ijms23052514)
 > 
 > Bremler, R., Katati, N., Shergill, P., Erritzoe, D., & Carhart-Harris, R. L. (2023a). Case analysis of long-term negative psychological responses to psychedelics. _Scientific Reports_, _13_(1), Article 1. [https://doi.org/10.1038/s41598-023-41145-x](https://doi.org/10.1038/s41598-023-41145-x)
