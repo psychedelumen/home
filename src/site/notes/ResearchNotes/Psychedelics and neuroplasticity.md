@@ -3,13 +3,11 @@
 ---
 
 # Psychedelics and neuroplasticity
-### A starter bibliography
+## A starter bibliography
 
 Ornelas, I. M., Cini, F. A., Wießner, I., Marcos, E., de Araújo, D., Goto-Silva, L., Nascimento, J., Silva, S. R. B., Costa, M. N., Falchi, M., Olivieri, R., Palhano-Fontes, F., Sequerra, E., Martins-de-Souza, D., Feilding, A., Rennó-Costa, C., Tófoli, L. F., Rehen, S. K., & Ribeiro, S. (2022). Nootropic effects of LSD: Behavioral, molecular and computational evidence. _Experimental Neurology_, 114148. [https://doi.org/10.1016/j.expneurol.2022.114148](https://doi.org/10.1016/j.expneurol.2022.114148)
 
-
-#### collection: psychedelic 
-#### title: plastic
+ 
 
 > Almeida, C. A. F., Pereira-Junior, A. A., Rangel, J. G., Pereira, B. P., Costa, K. C. M., Bruno, V., Silveira, G. O., Ceron, C. S., Yonamine, M., Camarini, R., Garcia, R. C. T., Marcourakis, T., & Torres, L. H. (2022). Ayahuasca, a psychedelic beverage, modulates neuroplasticity induced by ethanol in mice. _Behavioural Brain Research_, _416_, 113546. [https://doi.org/10.1016/j.bbr.2021.113546](https://doi.org/10.1016/j.bbr.2021.113546)
 > 
