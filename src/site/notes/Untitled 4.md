@@ -137,4 +137,4 @@ Could this process altogether represent a change in the mobilization, distributi
 
 Or is pychedelic experience more like bumping the lamp on the serotonin system, momentarily illuminating otherwise hidden foundations of sensation, memory, and imagination, giving us myriad new perspectives on our goals, values, past experiences and and potential, and prompting a transformative realignment of mind, body and world? 
 
-Whatever variation the answer may come in, there is no doubt, for those who have undergone and those who have studied it, that psychedelic experience touches, like serotonin and auxin, almost all aspects of our lives.
+Whatever variation the answer may come in, there is no doubt for those who have undergone it and those who have studied it alike that psychedelic experience involves, like serotonin and auxin, almost all aspects of our lives.
