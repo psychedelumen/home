@@ -10,7 +10,7 @@ Belser points out that such sensuous features as meaningful visionary phenomena,
 
 As we saw in the previous section, the roles of serotonin, just like those of auxin, go beyond simply orienting organisms with patterns of light, and extend into almost all aspects of life, perhaps—if we accept Azmitia’s characterization—ultimately integrating mind, body and world.
 
-##### Integrating mind, body and world
+##### Unity and associated phenomena
 It is no secret that classical psychedelics frequently initiate subjective experiences in which the boundaries between mind, body and world begin to dissolve and, in some cases, disappear. Ego dissolution, unity, loss of sense of self, self-transcendence, and oneness—the breakdown of the perceived difference between the mind, body (i.e. the self) and world. Such psychedelic-induced experiences of extraordinary absorption are similar (and some propose identical) to advanced states of mystical contemplative practices, and have long been a matter of serious focus for many academic researchers. 
 
 But the experience of unity *by itself,* according to Rieser and colleagues, “has not been shown to be related to therapeutic effects.” Rather, therapeutic benefits appear to relate more strongly to broader mystical experience, in particular a combination of experiences that involve not only unity but also insight as well as bliss. In fact, Alan K Davis et al recently developed a questionnaire called the Psychedelic Insight Questionnaire (PIQ) and has discovered that experiencing insights involving awareness about relationships, past events, goals, and values may be an even stronger predictor of wellbeing than overall mystical experience.
