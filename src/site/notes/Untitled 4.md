@@ -19,7 +19,7 @@ It is no secret that classical psychedelics frequently initiate subjective exper
 
 But the experience of unity *by itself,* according to Rieser and colleagues, “has not been shown to be related to therapeutic effects.” Rather, therapeutic benefits appear to relate more strongly to broader mystical experience, in particular a combination of experiences that involve not only unity but also insight as well as bliss. In fact, Alan K Davis et al recently developed a questionnaire called the Psychedelic Insight Questionnaire (PIQ) and has discovered that experiencing insights involving awareness about relationships, past events, goals, and values may be an even stronger predictor of wellbeing than overall mystical experience.
 
-Vollenweider emphasizes accordingly that while ego dissolution can be separated from other psychedelic phenomena conceptually, the various psychometrically measured dimensions of psychedelic experience appear to be “theoretically, experientially and mathematically” interrelated:
+Vollenweider emphasizes accordingly that, while ego dissolution can be separated from other psychedelic phenomena conceptually, the various psychometrically measured dimensions of psychedelic experience appear to be “theoretically, experientially and mathematically” interrelated:
 
 >“The phenomenon of ego-dissolution is neither an all or nothing affair nor does it occur on its own [...] ego dissolution arises dose-dependently along a perception-hallucination continuum associated with increased sensory and emotional arousal, distinct changes in cognitive functions, the release of emotions, often with the recall of emotionally loaded autobiographic memories, and increased capacity for introspection.”
 
