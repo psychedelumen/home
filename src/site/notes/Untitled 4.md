@@ -29,7 +29,7 @@ As Masters and Houston describe, while the experience unfolds along this excitat
 
 Ultimately, Masters and Houston find, if the subject can be encouraged to explore the contents of each level in a way that is sufficiently rich and varied, the cumulative insights and associations can lead to a deeper understanding of the “complex network” of their being, and “ideation, images, body sensation (if any) and emotion” may fuse in a purposive process that in some cases culminates in a sense of “self-understanding, selftransformation, religious enlightenment and, possibly, mystical union,”  (Masters & Houston).
 
-Altogether, there is no doubt t “experience of unity” and “insightfulness” dance closely together. Psychometric studies in controlled settings also support this notion, finding that insightfulness stands among the most highly correlated factors with experience of unity. 
+Altogether, there is no doubt that “experience of unity” and “insightfulness” dance closely together. Psychometric studies in controlled settings also support this notion, finding that insightfulness stands among the most highly correlated factors with experience of unity. 
 
 But the exact neural bases of the psychedelic-induced experience of insight and unity remain an area of active investigation, in a field, as described by Belser, currently marked by theory building and hypothesis testing. 
 
