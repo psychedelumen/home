@@ -130,7 +130,7 @@ Most strikingly, Nardou et al 2023 find that psychelics appear to induce *metapl
 >  e.g. imprinting, language learning, and brain circuit rearrangement following sensory or motor perturbations, like ocular dominance plasticity and motor learning after a stroke
 >
 
-Psychedelic-induced neuroplastic changes have been associated with a variety of outcomes, including increased resting-state functional connections across the brain, improved response of prefrontal (dlPFC and mOFC) regions along with reduced amygdala reactivity to emotionally conflicting stimuli [s]; protection against stress-induced anxiety, damage to neuronal dendrites and to brainstem serotonin activity [s]; accelerated learning, memory and fear extinction; improved pattern separation associated with reduced negativity bias [s]; and improved cognitive flexibility [s].
+Psychedelic-induced neuroplastic changes have been associated with a variety of outcomes, including increased resting-state functional connections across the brain, improved response of prefrontal (dlPFC and mOFC) regions, along with reduced amygdala reactivity, to emotionally conflicting stimuli [s]; protection against stress-induced anxiety, damage to neuronal dendrites and to brainstem serotonin activity [s]; accelerated learning, memory and fear extinction; improved pattern separation associated with reduced negativity bias [s]; and improved cognitive flexibility [s].
 
 
 ##### Re-integration and conclusion
