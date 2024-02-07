@@ -130,7 +130,7 @@ Most strikingly, Nardou et al 2023 find that psychelics appear to induce *metapl
 >  e.g. imprinting, language learning, and brain circuit rearrangement following sensory or motor perturbations, like ocular dominance plasticity and motor learning after a stroke
 >
 
-Psychedelic-induced neuroplastic changes have been associated with a variety of outcomes, including increased resting-state functional connections across the brain, improved response of prefrontal (dlPFC and mOFC) regions, along with reduced amygdala reactivity, to emotionally conflicting stimuli [s]; protection against stress-induced anxiety, damage to neuronal dendrites and to brainstem serotonin activity [s]; accelerated learning, memory and fear extinction; improved pattern separation associated with reduced negativity bias [s]; and improved cognitive flexibility [s].
+Psychedelic-induced neuroplastic changes have been associated with a variety of outcomes, including increased resting-state functional connections across the brain, improved response of prefrontal (dlPFC and mOFC) regions, along with reduced amygdala reactivity, to emotionally conflicting stimuli [s]; protection against stress-induced anxiety, damage to neuronal dendrites and to brainstem serotonin activity [s]; accelerated learning, memory and fear extinction; improved pattern separation associated with reduced negativity bias [s]; and improved cognitive flexibility [s]. Overall, it seems likely that psychedelic-induced neuroplasticity contributes to what some have come to call the ‘psychedelic afterglow.’
 
 
 ##### Re-integration and conclusion
@@ -145,4 +145,4 @@ Could this process altogether represent a change in the mobilization, distributi
 
 Or is pychedelic experience more like bumping the lamp on the serotonin system, momentarily illuminating otherwise hidden foundations of sensation, memory, and imagination, giving us myriad new perspectives on our goals, values, past experiences and and potential, and prompting a transformative realignment of mind, body and world? 
 
-Whatever variation the answer may come in, there is no doubt for those who have undergone it and those who have studied it alike that psychedelic experience involves, like serotonin and auxin, almost all aspects of our lives.
+Whatever variation the answer may come in, psychedelic experience, like serotonin and auxin, involve almost all aspects of our lives.
