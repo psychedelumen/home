@@ -115,7 +115,7 @@ As Masters and Houston once stated,
 But it is equally important that *psychedelic experience* itself be supported and encouraged to contribute to the bodies of knowledge of these very same different disciplines and fields. 
 
 ##### Neuroplasticity and related outcomes
-Supporting the lasting effects of (and possibly facilitating) these experience are psychedelic-induced neuroplastic changes. Just as auxin has been implicated in directing the growth of plant organs to tract sources of energy in acts of photo and other tropisms, serotonergic psychedelics appear to engage mechanisms involved in neurotropism, neurotrophism, and neuroplasticity [s] “within brain structures critical for the integration of information relevant to sensation, cognition, emotions, and the narrative of self.” [s]
+Supporting the lasting effects of (and possibly contributing to) psychedelic experience are neuroplastic changes. Just as auxin has been implicated in directing the growth of plant organs to tract sources of energy in acts of photo and other tropisms, serotonergic psychedelics appear to engage mechanisms involved in neurotropism, neurotrophism, and neuroplasticity [s] “within brain structures critical for the integration of information relevant to sensation, cognition, emotions, and the narrative of self.” [s]
 
 In contrast to the hyperplastic changes known to be related to substance addictions, a hallmark of classical psychedelics is their power to engage mechanisms of plasticity that can persist for several weeks after the experience wears off [s].*
 
