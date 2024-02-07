@@ -31,9 +31,11 @@ Ultimately, Masters and Houston find, if the subject can be encouraged to explor
 
 Altogether, there is no doubt that “experience of unity” and “insightfulness” dance closely together. Psychometric studies in controlled settings also support this notion, finding that insightfulness stands among the most highly correlated factors with experience of unity. 
 
-But the exact neural bases of the psychedelic-induced experience of insight and unity remain an area of active investigation, in a field, as described by Belser, currently marked by theory building and hypothesis testing. 
+But what are the neural bases of psychedelic-induced experience of insight and unity? 
 
 ##### The intgrative mechanism of Ego-dissolution
+This question remains an area of active investigation, in a field, as described by Belser, still in the early stages of theory building and hypothesis testing. 
+
 As pointed out by Vollenweider (20XX), the neural substrates of ego dissolution is a contentious issue, as it has been correlated with a number of disparate findings.* While an exhaustive account of these possible neuroscientific bases of ego dissolution lays beyond the scope of this work, we will focus here on a particularly intriguing line of research involving the cortical midline structures we discussed earlier (which are, again, considered essential for ascribing personal meaning to information)
 
 Vollenweider (2XXX) found that under the effects of psychedelics, the P300—an electrophysiological signal in one of the structures belonging to the cortical midline called the anterior cingulate cortex, which helps distinguish stimuli which carry personal significance from stimuli that do not—becomes blurred. This was associated with experience of unity. But it was also associated with changed meaning of percepts (i.e. the proneness to find personal meaning in experience/the environment).* 
